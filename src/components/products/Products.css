@@ -1,0 +1,18 @@
+.products {
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+}
+
+.product {
+    /* background-color: rgb(243, 230, 255); */
+    border: 1px dotted red;
+    padding: 0.7rem;
+    margin: 0.5rem 1rem 0.5rem 0;
+    width: 25%
+}
+
+.productName {
+    font-size: 1.5rem;
+}
+
